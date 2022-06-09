@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dabd0e15-0fee-4477-b9f6-fffb9183a0be/deploy-status)](https://app.netlify.com/sites/animated-cheesecake-77e0b9/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
